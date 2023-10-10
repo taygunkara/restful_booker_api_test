@@ -1,0 +1,8 @@
+com/restful/models/BookingResponse.class
+com/restful/api/BookingHelper.class
+com/restful/api/RestResource.class
+com/restful/tests/BookingTests.class
+com/restful/models/Booking.class
+com/restful/models/Bookingdates.class
+com/restful/api/Routes.class
+com/restful/api/SpecBuilder.class

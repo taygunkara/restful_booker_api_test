@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-10T08:25:42 TRT" name="Surefire suite" finished-at="2023-10-10T08:25:50 TRT" duration-ms="7593">
+    <groups>
+    </groups>
+    <test started-at="2023-10-10T08:25:42 TRT" name="Surefire test" finished-at="2023-10-10T08:25:50 TRT" duration-ms="7593">
+      <class name="com.restful.tests.BookingTests">
+        <test-method signature="ShouldBeAbleToCreteABooking()[pri:0, instance:com.restful.tests.BookingTests@59717824]" started-at="2023-10-10T08:25:42 TRT" name="ShouldBeAbleToCreteABooking" finished-at="2023-10-10T08:25:48 TRT" duration-ms="5405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToCreteABooking -->
+        <test-method signature="ShouldBeAbleToGetBookingWithID()[pri:0, instance:com.restful.tests.BookingTests@59717824]" started-at="2023-10-10T08:25:48 TRT" name="ShouldBeAbleToGetBookingWithID" finished-at="2023-10-10T08:25:50 TRT" duration-ms="2149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToGetBookingWithID -->
+      </class> <!-- com.restful.tests.BookingTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
